@@ -1,0 +1,5 @@
+/curso/*
+  X-Robots-Tag: noindex
+  Cache-Control: no-cache
+/aberto/*
+  Cache-Control: no-cache

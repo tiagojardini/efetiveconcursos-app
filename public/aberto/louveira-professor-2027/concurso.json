@@ -1,0 +1,252 @@
+{
+ "id": "louveira-professor-2027",
+ "nomeVenda": "Preparatório Professor Louveira-SP 2027",
+ "nomeCurto": "Efetive · Professor Louveira",
+ "banca": "Avança SP",
+ "prova": "2027-01-24",
+ "provaTexto": "24/01/2027, 9h, 3 horas",
+ "venda": {
+  "checkout": "",
+  "whatsapp": ""
+ },
+ "plano": [
+  {
+   "semana": "Semana 1",
+   "dias": [
+    {
+     "dia": 1,
+     "area": "CE",
+     "tema": "CF/88 arts. 205 a 214, ADCT art. 60 e EC 108/2020 (Fundeb)",
+     "area2": "LP",
+     "tema2": "Leitura e interpretação de textos"
+    },
+    {
+     "dia": 2,
+     "area": "CE",
+     "tema": "LDB I: princípios, direito à educação, organização (arts. 1º a 20)",
+     "area2": "MAT",
+     "tema2": "Operações com números reais, MMC e MDC"
+    },
+    {
+     "dia": 3,
+     "area": "CE",
+     "tema": "LDB II: educação básica, etapas, educação especial, profissionais, recursos",
+     "area2": "LP",
+     "tema2": "Sinônimos, antônimos, sentido figurado, figuras de linguagem"
+    },
+    {
+     "dia": 4,
+     "area": "CE",
+     "tema": "BNCC I: estrutura, 10 competências gerais, anos iniciais, alfabetização",
+     "area2": "INFO",
+     "tema2": "Windows: pastas, arquivos, atalhos, área de transferência"
+    },
+    {
+     "dia": 5,
+     "area": "CE",
+     "tema": "BNCC II: Linguagens e Matemática; Smole e Diniz",
+     "area2": "MAT",
+     "tema2": "Razão, proporção, regra de três simples e composta"
+    },
+    {
+     "dia": 6,
+     "area": "CE",
+     "tema": "BNCC III: Ciências, Geografia, História e Ensino Religioso",
+     "area2": "LP",
+     "tema2": "Ortografia e acentuação"
+    },
+    {
+     "dia": 7,
+     "area": "REV",
+     "tema": "Revisão da semana pelo caderno de erros",
+     "area2": "SIM",
+     "tema2": "Mini-simulado 1 (25 questões)"
+    }
+   ]
+  },
+  {
+   "semana": "Semana 2",
+   "dias": [
+    {
+     "dia": 8,
+     "area": "CE",
+     "tema": "Inclusão I: Decreto 12.686/2025 e Lei Brasileira de Inclusão",
+     "area2": "MAT",
+     "tema2": "Porcentagem e juros simples"
+    },
+    {
+     "dia": 9,
+     "area": "CE",
+     "tema": "Inclusão II: Res. CNE/CEB 4/2009 (AEE), Res. 2/2001, Mantoan",
+     "area2": "LP",
+     "tema2": "Pontuação"
+    },
+    {
+     "dia": 10,
+     "area": "CE",
+     "tema": "Didática: Libâneo e Zabala (A prática educativa)",
+     "area2": "INFO",
+     "tema2": "Word"
+    },
+    {
+     "dia": 11,
+     "area": "CE",
+     "tema": "Ensino por competências: Zabala e Arnau; Filatro",
+     "area2": "LP",
+     "tema2": "Classes de palavras e conjunções"
+    },
+    {
+     "dia": 12,
+     "area": "CE",
+     "tema": "Avaliação: Luckesi; Saeb, Ideb e indicadores",
+     "area2": "MAT",
+     "tema2": "Médias, tabelas e gráficos"
+    },
+    {
+     "dia": 13,
+     "area": "CE",
+     "tema": "Planejamento, PPP e currículo: Vasconcellos, M. L. Vasconcelos, Arroyo",
+     "area2": "LP",
+     "tema2": "Concordância verbal e nominal"
+    },
+    {
+     "dia": 14,
+     "area": "REV",
+     "tema": "Revisão da semana pelo caderno de erros",
+     "area2": "SIM",
+     "tema2": "Mini-simulado 2 (25 questões)"
+    }
+   ]
+  },
+  {
+   "semana": "Semana 3",
+   "dias": [
+    {
+     "dia": 15,
+     "area": "CE",
+     "tema": "ECA: arts. 7º a 24, 53 a 69, 131 a 140",
+     "area2": "MAT",
+     "tema2": "Equações e sistemas do 1º grau, situações-problema"
+    },
+    {
+     "dia": 16,
+     "area": "CE",
+     "tema": "Bullying: Lei 13.185/2015 e guia MEC 2025; mediação de conflitos",
+     "area2": "LP",
+     "tema2": "Regência e crase"
+    },
+    {
+     "dia": 17,
+     "area": "CE",
+     "tema": "DCN Gerais, Parecer 11/2010 (EF de 9 anos), PCN Introdução",
+     "area2": "INFO",
+     "tema2": "Excel: fórmulas, funções e gráficos"
+    },
+    {
+     "dia": 18,
+     "area": "CE",
+     "tema": "PNE (Lei 15.388/2026) e Res. CNE/CEB 7/2025 (tempo integral)",
+     "area2": "MAT",
+     "tema2": "Medidas, perímetro, área, volume, Pitágoras"
+    },
+    {
+     "dia": 19,
+     "area": "CE",
+     "tema": "Relações étnico-raciais: Res. CNE/CP 1/2004; Mota; bell hooks",
+     "area2": "LP",
+     "tema2": "Análise sintática e colocação pronominal"
+    },
+    {
+     "dia": 20,
+     "area": "CE",
+     "tema": "Direitos humanos: Parecer CNE/CP 8/2012 e Caderno de EDH",
+     "area2": "RL",
+     "tema2": "Sequências e relações arbitrárias"
+    },
+    {
+     "dia": 21,
+     "area": "REV",
+     "tema": "Revisão da semana pelo caderno de erros",
+     "area2": "SIM",
+     "tema2": "Mini-simulado 3 (25 questões)"
+    }
+   ]
+  },
+  {
+   "semana": "Semana 4 e reta final",
+   "dias": [
+    {
+     "dia": 22,
+     "area": "CE",
+     "tema": "Tecnologias: guia de Educação digital e midiática, guia de telas, Moran",
+     "area2": "INFO",
+     "tema2": "PowerPoint, e-mail e internet"
+    },
+    {
+     "dia": 23,
+     "area": "CE",
+     "tema": "Fundamentos: Freire, Saviani, Cortella, Luckesi; Piaget, Vygotsky, Wallon",
+     "area2": "RL",
+     "tema2": "Lógica, argumentação e diagramas"
+    },
+    {
+     "dia": 24,
+     "area": "CE",
+     "tema": "Organização da escola, gestão democrática; primeiros socorros",
+     "area2": "LP",
+     "tema2": "Coesão e redação oficial"
+    },
+    {
+     "dia": 25,
+     "area": "SIM",
+     "tema": "Simulado 1 (50 questões, 3 h)",
+     "area2": null,
+     "tema2": null
+    },
+    {
+     "dia": 26,
+     "area": "REV",
+     "tema": "Correção do Simulado 1 e revisão dos 5 temas com mais erros",
+     "area2": null,
+     "tema2": null
+    },
+    {
+     "dia": 27,
+     "area": "SIM",
+     "tema": "Simulado 2 (50 questões, 3 h)",
+     "area2": null,
+     "tema2": null
+    },
+    {
+     "dia": 28,
+     "area": "REV",
+     "tema": "Correção do Simulado 2 e revisão da letra da lei",
+     "area2": null,
+     "tema2": null
+    },
+    {
+     "dia": 29,
+     "area": "SIM",
+     "tema": "Simulado 3 (50 questões, 3 h)",
+     "area2": null,
+     "tema2": null
+    },
+    {
+     "dia": 30,
+     "area": "REV",
+     "tema": "Correção do Simulado 3, revisão final e orientações para a prova",
+     "area2": null,
+     "tema2": null
+    }
+   ]
+  }
+ ],
+ "prontas": [
+  1,
+  2,
+  3
+ ],
+ "abertas": [
+  1
+ ]
+}

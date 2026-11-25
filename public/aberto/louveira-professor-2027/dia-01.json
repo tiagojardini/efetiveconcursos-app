@@ -1,0 +1,217 @@
+{
+ "dia": 1,
+ "titulo": "CF e Fundeb",
+ "passos": [
+  "Ler o Bloco A até o Resumo de 1 minuto",
+  "Assistir aos dois vídeos do Bloco A",
+  "Estudar o Bloco B e assistir ao vídeo de interpretação",
+  "Revisar os flashcards",
+  "Fazer o quiz de 10 questões"
+ ],
+ "flash": [
+  [
+   "Art. 205: quais as três finalidades da educação?",
+   "Pleno desenvolvimento da pessoa, preparo para a cidadania e qualificação para o trabalho."
+  ],
+  [
+   "Qual a diferença entre o art. 205 da CF e o art. 2º da LDB?",
+   "CF: dever do Estado e da família. LDB: dever da família e do Estado, inspirada na liberdade e na solidariedade humana."
+  ],
+  [
+   "Art. 206, V: como se ingressa no magistério público?",
+   "Exclusivamente por concurso público de provas e títulos."
+  ],
+  [
+   "Qual princípio a EC 108/2020 incluiu no art. 206?",
+   "Inciso IX: direito à educação e à aprendizagem ao longo da vida."
+  ],
+  [
+   "Art. 208, I: faixa etária obrigatória?",
+   "Dos 4 aos 17 anos, gratuita, inclusive para quem não teve acesso na idade própria."
+  ],
+  [
+   "O que é direito público subjetivo?",
+   "O direito ao ensino obrigatório pode ser exigido do Poder Público, inclusive na Justiça (art. 208, §1º)."
+  ],
+  [
+   "Onde atuam prioritariamente os Municípios?",
+   "Ensino fundamental e educação infantil (art. 211, §2º)."
+  ],
+  [
+   "Quanto o Município aplica em MDE?",
+   "No mínimo 25% da receita de impostos, incluídas as transferências (art. 212)."
+  ],
+  [
+   "Fundeb: complementação mínima da União e suas parcelas?",
+   "23%: VAAF 10, VAAT 10,5 e VAAR 2,5 pontos percentuais."
+  ],
+  [
+   "Fundeb: 70% e 50% de quê?",
+   "70% de cada fundo para profissionais em efetivo exercício; 50% da complementação VAAT para a educação infantil."
+  ]
+ ],
+ "quiz": [
+  {
+   "s": "Analise as asserções abaixo, conforme o art. 206 da Constituição Federal:<ol type=\"I\"><li>A gestão democrática, na forma da lei, é princípio do ensino público.</li><li>O ingresso dos profissionais da educação escolar das redes públicas ocorre exclusivamente por concurso público de provas ou títulos.</li><li>A garantia do direito à educação e à aprendizagem ao longo da vida é princípio do ensino.</li><li>O piso salarial profissional dos profissionais da educação escolar pública é fixado nos termos de lei estadual.</li></ol>Está correto o que se afirma em:",
+   "o": [
+    "I e III, apenas.",
+    "I e II, apenas.",
+    "II e IV, apenas.",
+    "I, III e IV, apenas.",
+    "I, II, III e IV."
+   ],
+   "a": 0,
+   "e": "II troca “provas e títulos” por “provas ou títulos”. IV troca “lei federal” por “lei estadual”. I (inciso VI) e III (inciso IX, incluído pela EC 108/2020) estão corretas."
+  },
+  {
+   "s": "Cláudia procurou vaga em uma pré-escola municipal para sua filha Helena, de 4 anos. Na Secretaria de Educação, ouviu que não havia vagas e que “a pré-escola não é obrigatória”. À luz da Constituição Federal, assinale a alternativa correta:",
+   "o": [
+    "A informação está correta, pois a obrigatoriedade escolar começa aos 6 anos, no ensino fundamental.",
+    "A informação está correta, pois a educação infantil é atuação prioritária dos Estados.",
+    "A informação está incorreta, pois a educação básica é obrigatória e gratuita dos 4 aos 17 anos, o acesso ao ensino obrigatório é direito público subjetivo e seu não-oferecimento importa responsabilidade da autoridade competente.",
+    "A informação está incorreta, pois a educação básica é obrigatória desde o nascimento.",
+    "A informação está correta, desde que o Município ofereça bolsa em escola particular."
+   ],
+   "a": 2,
+   "e": "Art. 208, I, §§1º e 2º. A educação infantil é prioridade dos Municípios (art. 211, §2º). A bolsa do art. 213 é exceção e não substitui o dever de ofertar."
+  },
+  {
+   "s": "Sobre o regime de colaboração previsto no art. 211 da Constituição Federal, todas as alternativas estão corretas, exceto:",
+   "o": [
+    "A União exerce, em matéria educacional, função redistributiva e supletiva.",
+    "Os Estados e o Distrito Federal atuarão prioritariamente no ensino fundamental e médio.",
+    "O padrão mínimo de qualidade considerará as condições adequadas de oferta e terá como referência o Custo Aluno Qualidade (CAQ).",
+    "Os Municípios atuarão prioritariamente no ensino médio e no ensino superior.",
+    "União, Estados, Distrito Federal e Municípios exercerão ação redistributiva em relação a suas escolas."
+   ],
+   "a": 3,
+   "e": "Os Municípios atuam prioritariamente no ensino fundamental e na educação infantil. O CAQ como referência do padrão mínimo e a ação redistributiva dos entes sobre suas escolas são os §§7º e 6º, incluídos pela EC 108/2020."
+  },
+  {
+   "s": "O Município de Louveira deve aplicar, anualmente, na manutenção e desenvolvimento do ensino, no mínimo:",
+   "o": [
+    "18% da receita resultante de impostos.",
+    "25% da receita resultante de impostos, compreendida a proveniente de transferências.",
+    "25% da receita corrente líquida.",
+    "30% da receita de todos os tributos municipais.",
+    "20% da receita resultante de impostos, excluídas as transferências."
+   ],
+   "a": 1,
+   "e": "Art. 212. 18% é o mínimo da União. A base de cálculo é a receita de impostos, incluídas as transferências."
+  },
+  {
+   "s": "Conforme o art. 60 do Ato das Disposições Constitucionais Transitórias, com redação dada pela EC 108/2020, a complementação da União ao Fundeb foi implementada progressivamente, alcançando o mínimo de 23% do total de recursos dos fundos em:",
+   "o": [
+    "2021.",
+    "2023.",
+    "2024.",
+    "2030.",
+    "2026."
+   ],
+   "a": 4,
+   "e": "12% em 2021, 15% em 2022, 17% em 2023, 19% em 2024, 21% em 2025 e 23% em 2026."
+  },
+  {
+   "s": "Completa corretamente as lacunas, respectivamente:<br>“Proporção não inferior a ______ de cada fundo será destinada ao pagamento dos profissionais da educação básica em efetivo exercício, e ______ dos recursos da complementação VAAT serão destinados à educação infantil.”",
+   "o": [
+    "60% – 30%",
+    "80% – 50%",
+    "70% – 25%",
+    "70% – 50%",
+    "50% – 70%"
+   ],
+   "a": 3,
+   "e": "Art. 212-A, XI (70%) e §3º (50% da complementação VAAT para a educação infantil)."
+  },
+  {
+   "s": "De acordo com o texto “Vaga não é favor”, é correto afirmar:",
+   "o": [
+    "Depois de 1988, todas as escolas públicas passaram a funcionar bem.",
+    "A mudança constitucional não resolveu de imediato os problemas das escolas, que dependeram de obras, contratações e recursos.",
+    "A Justiça é o único caminho para garantir uma vaga na escola pública.",
+    "Antes de 1988 não havia escolas públicas no Brasil.",
+    "Os professores eram os responsáveis pela falta de vagas."
+   ],
+   "a": 1,
+   "e": "O 2º parágrafo diz que a mudança não fez as escolas funcionarem bem “da noite para o dia”. A é contradição; C é extrapolação (o texto diz “inclusive na Justiça”, não “só”); D e E não estão no texto."
+  },
+  {
+   "s": "No trecho “Quem espera favor agradece; quem tem direito participa, fiscaliza e exige qualidade”, o autor sugere que:",
+   "o": [
+    "a gratidão é um sentimento que deve ser evitado na escola pública.",
+    "as famílias que agradecem não se importam com a qualidade do ensino.",
+    "reconhecer-se titular de um direito leva a uma postura mais ativa diante da escola.",
+    "a fiscalização da escola cabe apenas aos órgãos de controle.",
+    "o direito à educação depende da participação da família."
+   ],
+   "a": 2,
+   "e": "É uma inferência: o contraste mostra a mudança de postura de quem passa a ver a escola como direito. Dizer que a gratidão deve ser evitada ou que quem agradece não se importa com a qualidade é extrapolação; restringir a fiscalização aos órgãos de controle contradiz “quem tem direito… fiscaliza”; e dizer que o direito depende da participação inverte a relação."
+  },
+  {
+   "s": "Na frase “a escola pública não pertence ao governo de plantão”, a expressão destacada significa:",
+   "o": [
+    "o governo que trabalha à noite.",
+    "o governo federal, em oposição ao municipal.",
+    "o órgão responsável por fiscalizar as escolas.",
+    "a equipe gestora de cada escola.",
+    "o governo que está temporariamente no poder."
+   ],
+   "a": 4,
+   "e": "“De plantão” é usado em sentido figurado: quem está no poder naquele momento, de forma passageira, em oposição à comunidade, que permanece."
+  },
+  {
+   "s": "Analise as asserções sobre o texto “Vaga não é favor”:<ol type=\"I\"><li>O título resume a tese defendida pelo autor.</li><li>O autor afirma que a falta de dinheiro deixou de ser um problema após 1988.</li><li>O texto se organiza pela oposição entre as ideias de favor e de direito.</li></ol>Está correto o que se afirma em:",
+   "o": [
+    "I e III, apenas.",
+    "II, apenas.",
+    "I, apenas.",
+    "II e III, apenas.",
+    "I, II e III."
+   ],
+   "a": 0,
+   "e": "II contradiz o texto: o dinheiro “nunca pareceu suficiente”. I e III estão corretas: o título antecipa a tese, e a oposição favor/direito estrutura o texto do 1º ao último parágrafo."
+  }
+ ],
+ "checks": {
+  "c1": {
+   "s": "Pare e responda: o ingresso dos professores nas redes públicas ocorre exclusivamente por concurso público de",
+   "o": [
+    "provas ou títulos",
+    "provas e títulos",
+    "provas, títulos ou entrevista"
+   ],
+   "a": 1,
+   "e": "Art. 206, V: provas e títulos. É por isso que o edital de Louveira tem Prova de Títulos."
+  },
+  "c2": {
+   "s": "Pare e responda: segundo o art. 208, I, a educação básica é obrigatória e gratuita",
+   "o": [
+    "dos 6 aos 14 anos",
+    "dos 0 aos 17 anos",
+    "dos 4 aos 17 anos"
+   ],
+   "a": 2,
+   "e": "Dos 4 aos 17 anos, desde a EC 59/2009. “Dos 6 aos 14” era a redação antiga."
+  },
+  "c3": {
+   "s": "Pare e responda: qual parcela mínima de cada fundo do Fundeb vai para os profissionais da educação básica em efetivo exercício?",
+   "o": [
+    "60%",
+    "70%",
+    "80%"
+   ],
+   "a": 1,
+   "e": "Art. 212-A, XI: proporção não inferior a 70%."
+  },
+  "c4": {
+   "s": "Pare e responda: qual é a ideia central do texto “Vaga não é favor”?",
+   "o": [
+    "A Constituição resolveu os problemas de vagas nas escolas públicas.",
+    "Ao transformar o acesso à escola de favor em direito, a Constituição mudou a relação da comunidade com a escola pública.",
+    "As famílias devem processar o Estado sempre que faltar vaga."
+   ],
+   "a": 1,
+   "e": "A primeira alternativa contradiz o texto (“não significa que todas as escolas tenham passado a funcionar bem”). A terceira é extrapolação: o texto diz que a falta de vaga “pode ser cobrada”, não que deva sempre ir à Justiça."
+  }
+ }
+}

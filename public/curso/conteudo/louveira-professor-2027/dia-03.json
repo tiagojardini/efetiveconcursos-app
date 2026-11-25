@@ -1,0 +1,197 @@
+{
+ "dia": 3,
+ "titulo": "LDB II e figuras de linguagem",
+ "passos": [
+  "Ler o Bloco A até o Resumo de 1 minuto",
+  "Assistir ao vídeo sobre a educação infantil",
+  "Estudar o Bloco B e assistir ao vídeo de figuras de linguagem",
+  "Revisar os flashcards",
+  "Fazer o quiz de 10 questões"
+ ],
+ "flash": [
+  [
+   "Quais são os níveis e as etapas da educação escolar?",
+   "Níveis: educação básica e superior. Etapas da básica: educação infantil, ensino fundamental e ensino médio."
+  ],
+  [
+   "Art. 24: carga horária e dias letivos do EF.",
+   "Mínimo de 800 horas anuais em pelo menos 200 dias de efetivo trabalho escolar."
+  ],
+  [
+   "Frequência mínima: EF/EM e pré-escola.",
+   "EF e EM: 75% das horas letivas. Pré-escola: 60% do total de horas."
+  ],
+  [
+   "Como é a avaliação no art. 24, V?",
+   "Contínua e cumulativa, com prevalência dos aspectos qualitativos sobre os quantitativos."
+  ],
+  [
+   "Língua inglesa: a partir de quando?",
+   "A partir do 6º ano do ensino fundamental (art. 26, §5º)."
+  ],
+  [
+   "As quatro linguagens da Arte (art. 26, §6º).",
+   "Artes visuais, dança, música e teatro."
+  ],
+  [
+   "Educação infantil: horas diárias.",
+   "Mínimo de 4 horas no turno parcial e 7 horas na jornada integral."
+  ],
+  [
+   "Educação especial: três palavras do art. 58.",
+   "Modalidade; preferencialmente na rede regular; início na educação infantil e ao longo da vida."
+  ],
+  [
+   "Formação mínima para EI e 5 primeiros anos do EF.",
+   "Nível médio, na modalidade normal (o padrão é licenciatura plena em nível superior)."
+  ],
+  [
+   "MDE: transporte e merenda.",
+   "Transporte escolar conta como MDE; programas de alimentação não contam."
+  ]
+ ],
+ "quiz": [
+  {
+   "s": "De acordo com o art. 24 da LDB, a educação básica, nos níveis fundamental e médio, será organizada com carga horária mínima anual de ______ horas para o ensino fundamental, distribuídas por um mínimo de ______ dias de efetivo trabalho escolar, exigida a frequência mínima de ______ do total de horas letivas para aprovação. Completa corretamente as lacunas:",
+   "o": [
+    "600 – 180 – 60%",
+    "800 – 200 – 75%",
+    "800 – 180 – 75%",
+    "1.000 – 200 – 70%",
+    "800 – 200 – 60%"
+   ],
+   "a": 1,
+   "e": "Art. 24, I e VI. Os 60% são da pré-escola (art. 31, IV)."
+  },
+  {
+   "s": "Sobre a educação infantil, conforme o art. 31 da LDB, todas as alternativas estão corretas, exceto:",
+   "o": [
+    "carga horária mínima anual de 800 horas, distribuída por um mínimo de 200 dias de trabalho educacional.",
+    "atendimento à criança de, no mínimo, 4 horas diárias para o turno parcial e de 7 horas para a jornada integral.",
+    "avaliação mediante acompanhamento e registro do desenvolvimento das crianças, com o objetivo de promoção para o ensino fundamental.",
+    "controle de frequência pela instituição, exigida a frequência mínima de 60% do total de horas.",
+    "expedição de documentação que permita atestar os processos de desenvolvimento e aprendizagem da criança."
+   ],
+   "a": 2,
+   "e": "A avaliação na educação infantil é feita “sem o objetivo de promoção, mesmo para o acesso ao ensino fundamental” (art. 31, I)."
+  },
+  {
+   "s": "Analise as asserções sobre o art. 26 da LDB:<ol type=\"I\"><li>O ensino da arte constituirá componente curricular obrigatório da educação básica.</li><li>No currículo do ensino fundamental, será ofertada a língua inglesa a partir do 1º ano.</li><li>O ensino da História do Brasil levará em conta as contribuições das diferentes culturas e etnias, especialmente das matrizes indígena, africana e europeia.</li><li>A exibição de filmes de produção nacional constituirá componente curricular complementar, por no mínimo 2 horas mensais.</li></ol>Está correto o que se afirma em:",
+   "o": [
+    "I e II, apenas.",
+    "I, II, III e IV.",
+    "II e III, apenas.",
+    "II, III e IV, apenas.",
+    "I, III e IV, apenas."
+   ],
+   "a": 4,
+   "e": "II está errada: a língua inglesa é ofertada a partir do 6º ano (§5º)."
+  },
+  {
+   "s": "Segundo a LDB, admite-se como formação mínima para o exercício do magistério na educação infantil e nos cinco primeiros anos do ensino fundamental a oferecida:",
+   "o": [
+    "em nível médio, na modalidade normal.",
+    "em nível superior, em curso de bacharelado.",
+    "em curso livre de formação pedagógica.",
+    "em nível técnico, em qualquer área.",
+    "em pós-graduação lato sensu."
+   ],
+   "a": 0,
+   "e": "Art. 62. A regra é a licenciatura plena em nível superior; o normal de nível médio é admitido como mínimo para a EI e os 5 primeiros anos do EF."
+  },
+  {
+   "s": "Considerando o art. 58 da LDB, é correto afirmar que a educação especial:",
+   "o": [
+    "é uma etapa da educação básica, oferecida exclusivamente em escolas especializadas.",
+    "só pode ser ofertada a partir do ensino fundamental.",
+    "destina-se apenas aos educandos com deficiência física.",
+    "é modalidade de educação escolar oferecida preferencialmente na rede regular de ensino, com início na educação infantil e estendendo-se ao longo da vida.",
+    "dispensa serviços de apoio especializado na escola regular."
+   ],
+   "a": 3,
+   "e": "Art. 58, caput e §3º. O público inclui deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, e há serviços de apoio especializado quando necessário (§1º)."
+  },
+  {
+   "s": "De acordo com o art. 71 da LDB, não constituirão despesas de manutenção e desenvolvimento do ensino aquelas realizadas com:",
+   "o": [
+    "remuneração e aperfeiçoamento do pessoal docente.",
+    "programas suplementares de alimentação.",
+    "manutenção de programas de transporte escolar.",
+    "aquisição de material didático-escolar.",
+    "concessão de bolsas de estudo a alunos de escolas públicas e privadas."
+   ],
+   "a": 1,
+   "e": "A merenda é paga com outras fontes (art. 71, IV; CF, art. 212, §4º). As demais alternativas são despesas de MDE (art. 70)."
+  },
+  {
+   "s": "Na frase “Nas férias, os alunos leram Monteiro Lobato”, há:",
+   "o": [
+    "metáfora.",
+    "prosopopeia.",
+    "hipérbole.",
+    "metonímia.",
+    "antítese."
+   ],
+   "a": 3,
+   "e": "Metonímia: o autor no lugar da obra (leram os livros de Monteiro Lobato)."
+  },
+  {
+   "s": "No verso de Camões “É ferida que dói, e não se sente”, a figura de linguagem predominante é:",
+   "o": [
+    "paradoxo, pois reúne ideias opostas que parecem impossíveis ao mesmo tempo.",
+    "antítese, pois aproxima ideias opostas que convivem.",
+    "eufemismo, pois suaviza a dor.",
+    "gradação, pois apresenta ideias em sequência crescente.",
+    "catacrese, pois usa uma metáfora desgastada."
+   ],
+   "a": 0,
+   "e": "Uma ferida que dói e não se sente é uma impossibilidade lógica: paradoxo. Na antítese, os opostos apenas se contrapõem."
+  },
+  {
+   "s": "Em “A escola deve zelar pela aprendizagem de todos os alunos”, o verbo destacado pode ser substituído, sem alteração de sentido, por:",
+   "o": [
+    "avaliar.",
+    "cobrar.",
+    "cuidar de.",
+    "limitar.",
+    "registrar."
+   ],
+   "a": 2,
+   "e": "Zelar por = cuidar de, velar por. As demais mudam o sentido da frase."
+  },
+  {
+   "s": "Assinale a alternativa em que há prosopopeia:",
+   "o": [
+    "O sinal gritou o fim do recreio.",
+    "A diretora chegou cedo à escola.",
+    "Já falei isso mil vezes.",
+    "Ele é forte como um touro.",
+    "Comprei um Bombril para limpar a panela."
+   ],
+   "a": 0,
+   "e": "O sinal recebe uma ação humana (gritar): prosopopeia. C é hipérbole, D é comparação e E é metonímia (marca pelo produto)."
+  }
+ ],
+ "checks": {
+  "c8": {
+   "s": "Pare e responda: qual a frequência mínima exigida na pré-escola?",
+   "o": [
+    "60% do total de horas",
+    "75% do total de horas letivas",
+    "Não há frequência mínima na educação infantil"
+   ],
+   "a": 0,
+   "e": "Art. 31, IV: 60%. Os 75% valem para o ensino fundamental e médio (art. 24, VI)."
+  },
+  "c9": {
+   "s": "Pare e responda: em “Esta escola é um farol para o bairro”, há",
+   "o": [
+    "comparação",
+    "metáfora",
+    "metonímia"
+   ],
+   "a": 1,
+   "e": "Não há conectivo (“como”), e “farol” passa a significar “referência, guia”: metáfora."
+  }
+ }
+}

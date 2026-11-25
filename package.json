@@ -1,0 +1,12 @@
+{
+  "name": "efetiveconcursos-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "dev": "npx wrangler pages dev public --port 8788",
+    "extrair": "python -I tools/extrair_caderno.py",
+    "dev:estatico": "python -m http.server 8788 -d public --bind 127.0.0.1",
+    "teste:navegador": "node tests/navegador.mjs"
+  }
+}
