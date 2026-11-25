@@ -88,7 +88,7 @@ await tela(1280, 900, false);
 await ir(BASE + "/curso/#hoje"); await foto("08-hoje-desktop");
 // 9. Aula grátis
 await tela(390, 844, true);
-await ir(BASE + "/aula-gratis/"); await espera(800);
+await ir(BASE + "/louveira/"); await espera(800);
 ok(await ev(`!!document.querySelector('.day-art h2')`), "aula grátis carrega a Aula 1");
 await foto("09-aula-gratis");
 await ev(`(async()=>{for(let i=0;i<10;i++){const q=document.querySelectorAll('[data-quiz] .q')[i];q.querySelectorAll('.opt')[0].click();await new Promise(r=>setTimeout(r,30));}})()`);

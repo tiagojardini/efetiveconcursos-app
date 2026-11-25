@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#FFFFFF">
+<title>Efetive Concursos · preparatórios para concursos da educação</title>
+<meta name="description" content="Curso preparatório feito para um concurso da educação: o edital vira um plano de aulas, dia a dia, até a prova, no formato da banca.">
+<link rel="icon" href="/marca/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/app.css">
+<style>
+  main{padding-bottom:40px}
+  .hero{display:grid;gap:12px;padding:26px 0 6px}
+  .hero h1{font-size:clamp(1.7rem,6.5vw,2.3rem);font-weight:800}
+  .hero p{margin:0}
+  .passos{display:grid;gap:10px;margin:0;padding:0;list-style:none}
+  .passos li{display:flex;gap:12px;align-items:flex-start}
+  .passos b{flex:0 0 28px;height:28px;border-radius:50%;background:var(--verde-claro);color:var(--verde);display:grid;place-items:center;font-size:.9rem}
+  .concursos{display:grid;gap:12px}
+</style>
+</head>
+<body>
+<!-- Institucional mínimo (decisão de 25/11). Sem nome nem rosto da Renata até a resposta sobre a P15. -->
+<header class="topbar"><div class="in">
+  <a class="marca" href="/"><img src="/marca/efetive-logo-horizontal.svg" alt="Efetive Concursos" width="130" height="30"></a>
+  <span class="nome">Concursos da educação</span>
+</div></header>
+
+<main>
+  <section class="hero">
+    <h1>O edital vira um plano pronto, dia a dia, até a prova.</h1>
+    <p>Para cada concurso da educação, montamos um preparatório só dele: o que a banca mais cobra, em aulas curtas, na ordem certa. Você abre e já sabe o que estudar hoje.</p>
+    <p class="muted">Feito por especialista em educação aprovada em concurso.</p>
+  </section>
+
+  <section class="cartao" style="margin-top:14px">
+    <ol class="passos">
+      <li><b>1</b><span>Você escolhe quando começa e em que dias da semana estuda.</span></li>
+      <li><b>2</b><span>O plano distribui as aulas até a véspera da prova.</span></li>
+      <li><b>3</b><span>Cada aula tem quiz no formato da banca e revisão pelos seus erros.</span></li>
+    </ol>
+  </section>
+
+  <span class="label">Concursos abertos</span>
+  <div class="concursos">
+    <article class="cartao">
+      <span class="tag coral">Aula 1 grátis</span>
+      <h2>Professor · Louveira-SP</h2>
+      <p class="muted">Banca Avança SP · prova em 24/01/2027</p>
+      <a class="btn prim" href="/louveira/">Fazer a Aula 1 grátis</a>
+    </article>
+  </div>
+
+  <span class="label">Já é aluna?</span>
+  <a class="btn sec" href="https://curso.efetiveconcursos.com.br/">Entrar no curso</a>
+
+  <footer class="rodape">
+    <p data-empresa="contato" hidden></p>
+    <p data-empresa="identificacao" hidden></p>
+    <nav><a href="/privacidade/">Privacidade</a><a href="/termos/">Termos de uso</a></nav>
+    <p>© 2026 Efetive Concursos</p>
+  </footer>
+</main>
+
+<script type="module">
+import { preencherEmpresa } from "/assets/empresa.js";
+preencherEmpresa();
+</script>
+</body>
+</html>

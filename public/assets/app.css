@@ -195,3 +195,14 @@ footer.legal{margin-top:28px;font-size:.8rem;color:var(--rotulo)}
 @media (prefers-reduced-motion:reduce){.bar i,.barra i{transition:none}}
 @media (max-width:600px){table{font-size:13px}
  .stack thead{display:none}.stack tr{display:grid;padding-block:10px}.stack td{display:flow-root;border:0;padding:3px 0;padding-inline-start:8em;text-align:start}.stack td::before{content:attr(data-l);float:inline-start;width:7.5em;margin-inline-start:-8em;white-space:normal;font-weight:700}.stack td:empty{display:none}}
+
+/* ---------- páginas públicas: institucional, privacidade e termos ---------- */
+.topbar a.marca{display:block}
+.rodape{margin-top:32px;padding-top:16px;border-top:1px solid var(--borda);display:grid;gap:4px;font-size:.85rem;color:var(--rotulo)}
+.rodape p{margin:0}
+.rodape nav{display:flex;flex-wrap:wrap;gap:6px 16px}
+.doc h1{font-size:clamp(1.5rem,5vw,1.9rem);font-weight:800;margin:24px 0 6px}
+.doc h2{font-size:1.15rem;font-weight:700;margin:24px 0 6px}
+.doc p,.doc ul{margin:0 0 10px}
+.doc ul{padding-left:1.2em}
+.doc li{margin-bottom:4px}
