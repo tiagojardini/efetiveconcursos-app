@@ -73,7 +73,7 @@ Cada concurso é uma pasta com o identificador do padrão de nome (`louveira-pro
 
 ## Antes de abrir a venda (01/12)
 
-1. **Dados da empresa:** preencher `public/aberto/empresa.json` (razão social, CNPJ, e-mail e WhatsApp). Sem eles, o rodapé e as páginas legais ficam sem identificação.
+1. **Dados da empresa:** ~~razão social, CNPJ e e-mail~~ preenchidos em 25/11. Falta o WhatsApp em `public/aberto/empresa.json` (só números, com 55 e DDD); enquanto vazio, o link não aparece. O e-mail `contato@efetiveconcursos.com.br` está direcionado para efetiveconcursos@gmail.com. Configuração feita pelo Email Routing (grátis) na Cloudflare.
 2. **Links de venda:** preencher `venda.checkout` (link da Hubla) e `venda.whatsapp` (só números, com 55 e DDD) em `public/aberto/louveira-professor-2027/concurso.json`. Sem eles, a aula grátis mostra "Link de compra em breve".
 3. **Textos em rascunho:** aula grátis e institucional (revisar depois da resposta da Renata sobre aparecer na oferta, P15), privacidade e termos (revisar e conferir com o produto na Hubla).
 4. **Cloudflare Pages:** publicar da raiz do repo, para o wrangler levar a pasta `functions/` junto:
